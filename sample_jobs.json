@@ -1,0 +1,24 @@
+[
+    {
+      "title": "Backend Python Developer",
+      "company": "Techify",
+      "skills": ["python", "flask", "sql"],
+      "location": "Remote",
+      "url": "https://techify.com/jobs/python"
+    },
+    {
+      "title": "Frontend Developer",
+      "company": "Webgen",
+      "skills": ["javascript", "react", "css"],
+      "location": "Onsite - NY",
+      "url": "https://webgen.com/careers/frontend"
+    },
+    {
+      "title": "Full Stack Developer",
+      "company": "BuildIt",
+      "skills": ["python", "react", "docker"],
+      "location": "Remote",
+      "url": "https://buildit.dev/jobs/fullstack"
+    }
+  ]
+  
