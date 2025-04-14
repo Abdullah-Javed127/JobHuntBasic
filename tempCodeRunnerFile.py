@@ -34,19 +34,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-# from job_scraper import fetch_jobs
-
-# def main():
-#     keyword = input("Enter a keyword to search for jobs: ")
-#     jobs = fetch_jobs(keyword)
-
-#     for i, job in enumerate(jobs[:5], 1):  # show only top 5
-#         print(f"\n{i}. {job['title']} at {job['company_name']}")
-#         print(f"   Location: {job['candidate_required_location']}")
-#         print(f"   Tags: {', '.join(job['tags'])}")
-#         print(f"   Apply: {job['url']}")
-
-# if __name__ == "__main__":
-#     main()
-
